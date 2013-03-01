@@ -2,9 +2,9 @@ Capitulo1
 =========
 
 Primeiro Teste com Allegro
-=======================================================================================================================
 
 Instalação:
+===========
 
 Após instalar o MingW e Allegro criar as seguintes Vars Ambiente:
 
@@ -14,9 +14,8 @@ MINGDIR -> Representa o diretório raiz onde está MingW
 
 Na variável PATH adicionar: %ALLEGRO_HOME%\bin;%ALLEGRO_HOME%\lib;%MINGDIR%\bin;
 
-=======================================================================================================================
-
 Fontes:
+=======
 
 Adicionada versão da Lib que estamos usando.(https://www.allegro.cc/files/)
 
