@@ -22,3 +22,5 @@ Adicionada versão da Lib que estamos usando.(https://www.allegro.cc/files/)
 Tutorial configurar no VS: http://wiki.allegro.cc/index.php?title=Windows,_Visual_Studio_2010_and_Allegro_5
 
 Tutorial configurar no Code::Blocks : http://wiki.allegro.cc/index.php?title=Windows_Vista,_Code::Blocks_10.05_and_Allegro_5
+
+Tutorial configurar no Eclipse : http://www.rafaeltoledo.net/allegro-5-0-7-mingw-4-6-e-eclipse-juno/
