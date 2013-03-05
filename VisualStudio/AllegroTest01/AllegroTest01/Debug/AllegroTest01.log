@@ -1,0 +1,10 @@
+﻿Build started 05/03/2013 00:24:12.
+     1>Project "C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\AllegroTest01\AllegroTest01.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\Debug\AllegroVSTest01.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Desenvolvimento\LIBS\cpp\allegro-5.0.8-msvc-11.0\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib "allegro-5.0.8-monolith-md-debug.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\Debug\AllegroVSTest01.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\Debug\AllegroVSTest01.lib" /MACHINE:X86 Debug\main.obj
+         AllegroTest01.vcxproj -> C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\Debug\AllegroVSTest01.exe
+     1>Done Building Project "C:\Users\WiLL\documents\visual studio 2012\Projects\Allegro\AllegroTest01\AllegroTest01\AllegroTest01.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:18.47
