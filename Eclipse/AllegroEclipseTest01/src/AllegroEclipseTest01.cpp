@@ -14,10 +14,12 @@ int main() {
 	al_init();
 
 
+
+
   al_show_native_message_box(NULL,                    //ALLEGRO_DISPLAY* pode ser NULL
                              "Primeiro Programa",     //Título
 							 "Atencao",               //Cabeçalho
-							 "Welcome to Allegro!",   //Texto
+							 "Welcome to Allegro!!",   //Texto
 							 NULL,                    //Botões, pode ser NULL
 							 0);                      //flags ALLEGRO_MESSAGEBOX_WARN
 							                          //ALLEGRO_MESSAGEBOX_ERROR
