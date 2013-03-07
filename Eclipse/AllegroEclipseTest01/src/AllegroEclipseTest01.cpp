@@ -9,6 +9,7 @@
 #include <allegro5/allegro_native_dialog.h>
 #include <allegro5/allegro5.h>
 
+
 int main() {
 
 	al_init();
