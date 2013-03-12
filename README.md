@@ -3,6 +3,12 @@ Capitulo1
 
 Primeiro Teste com Allegro
 
+Tutoriais
+=========
+http://fixbyproximity.com/2011/07/2d-game-dev-intro-to-game-development/
+
+
+
 Instalação:
 ===========
 
